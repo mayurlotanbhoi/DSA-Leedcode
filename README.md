@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0002-add-two-numbers/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
