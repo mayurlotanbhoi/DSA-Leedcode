@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0867-transpose-matrix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
