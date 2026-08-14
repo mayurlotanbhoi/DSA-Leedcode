@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0040-combination-sum-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0867-transpose-matrix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -79,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0040-combination-sum-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
