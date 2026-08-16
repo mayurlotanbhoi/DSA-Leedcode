@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0198-house-robber](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0198-house-robber/) | Medium |
+| [0283-move-zeroes](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0867-transpose-matrix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Union-Find
