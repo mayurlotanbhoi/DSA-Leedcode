@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0867-transpose-matrix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
