@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0198-house-robber/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
