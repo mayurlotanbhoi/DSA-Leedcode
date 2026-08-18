@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0283-move-zeroes/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Prefix Sum
