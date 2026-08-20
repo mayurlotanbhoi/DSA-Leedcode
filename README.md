@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
