@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
