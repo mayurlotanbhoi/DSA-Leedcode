@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0040-combination-sum-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0202-happy-number/) | Easy |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0344-reverse-string/) | Easy |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
