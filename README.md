@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
