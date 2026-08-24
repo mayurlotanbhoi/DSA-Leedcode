@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
