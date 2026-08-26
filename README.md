@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
