@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -128,11 +129,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0055-jump-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Backtracking
