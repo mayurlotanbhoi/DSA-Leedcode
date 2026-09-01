@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0055-jump-game/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Backtracking
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
