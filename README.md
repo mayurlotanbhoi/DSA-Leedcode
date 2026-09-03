@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0055-jump-game/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
