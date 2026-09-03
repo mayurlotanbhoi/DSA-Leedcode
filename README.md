@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
