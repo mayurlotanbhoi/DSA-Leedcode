@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0867-transpose-matrix/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/mayurlotanbhoi/DSA-Leedcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
